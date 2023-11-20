@@ -1,0 +1,6 @@
+framework module Pods_AppConsorcio {
+  umbrella header "Pods-AppConsorcio-umbrella.h"
+
+  export *
+  module * { export * }
+}
